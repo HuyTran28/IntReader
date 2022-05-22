@@ -1,0 +1,20 @@
+C:\Users\JFK\Source\Repos\Đọc số nguyên\Đọc số nguyên\bin\Debug\Đọc số nguyên.exe.config
+C:\Users\JFK\Source\Repos\Đọc số nguyên\Đọc số nguyên\bin\Debug\Đọc số nguyên.exe
+C:\Users\JFK\Source\Repos\Đọc số nguyên\Đọc số nguyên\bin\Debug\Đọc số nguyên.pdb
+C:\Users\JFK\Source\Repos\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc số nguyên.csproj.AssemblyReference.cache
+C:\Users\JFK\Source\Repos\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc_số_nguyên.frmMain.resources
+C:\Users\JFK\Source\Repos\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc_số_nguyên.Properties.Resources.resources
+C:\Users\JFK\Source\Repos\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc số nguyên.csproj.GenerateResource.cache
+C:\Users\JFK\Source\Repos\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc số nguyên.csproj.CoreCompileInputs.cache
+C:\Users\JFK\Source\Repos\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc số nguyên.exe
+C:\Users\JFK\Source\Repos\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc số nguyên.pdb
+D:\Programming\Dev\Đọc số nguyên\Đọc số nguyên\bin\Debug\Đọc số nguyên.exe.config
+D:\Programming\Dev\Đọc số nguyên\Đọc số nguyên\bin\Debug\Đọc số nguyên.exe
+D:\Programming\Dev\Đọc số nguyên\Đọc số nguyên\bin\Debug\Đọc số nguyên.pdb
+D:\Programming\Dev\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc số nguyên.csproj.AssemblyReference.cache
+D:\Programming\Dev\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc_số_nguyên.frmMain.resources
+D:\Programming\Dev\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc_số_nguyên.Properties.Resources.resources
+D:\Programming\Dev\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc số nguyên.csproj.GenerateResource.cache
+D:\Programming\Dev\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc số nguyên.csproj.CoreCompileInputs.cache
+D:\Programming\Dev\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc số nguyên.exe
+D:\Programming\Dev\Đọc số nguyên\Đọc số nguyên\obj\Debug\Đọc số nguyên.pdb
